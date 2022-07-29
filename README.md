@@ -11,16 +11,16 @@ Please know that while I continue to learn and work on this project, future upda
 ##Palladium Books System Entities
 Foundry VTT breaks up systems into different ENTITIES
 
-*Actor
-  *Character Sheet
-  *NPC Sheet
-*Features
-*Items
-  *Skills
-  *Spells
-  *Psionics
-  *Armor
-  *Weapons
+- Actor
+  - Character Sheet
+  - NPC Sheet
+- Features
+- Items
+  - Skills
+  - Spells
+  - Psionics
+  - Armor
+  - Weapons
 
 
 ##Installation
