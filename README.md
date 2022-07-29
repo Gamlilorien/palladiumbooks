@@ -13,9 +13,15 @@ Foundry VTT breaks up systems into different ENTITIES of information. Actors, Fe
 
 - Actor
   - Character Sheet
+    - (C) Can enter basic info like: name, age, level, alignment, character portrait etc
+    - (C) Can enter and track basic changing stats like: health, energy, credits and experience
+    - (C) The 8 character attributes will auto calculate bonuses based on input (where appropriate)
+    - (C) Simple listing of most common combat bonuses like: strike, parry, dodge etc
   - NPC Sheet
+    - (C) A no frills version of the main character sheet for GM goons and NPCs that don't require as much detail
+    - (P) This template may be rebuilt when the main character sheet is built out further
 - Features
-  - (C) Used to currently to record basic or miscelanous special abilities
+  - (C) Used currently to record basic or miscelanous special abilities like: nightvision, claws, or predator burst etc.
 - Items
   - Skills
     - (C) Can manually create, edit, and delete skills of various types including: single % skills (most), double % skills (like Horsemanship or Climbing), SPECIAL skills (like WPs or HTH), and Focused skills (like Language: English vs Language Euro).
@@ -25,11 +31,11 @@ Foundry VTT breaks up systems into different ENTITIES of information. Actors, Fe
   - Spells
     - (C) Can manually create, edit, and delete
   - Psionics
-    - (C) Can manually create, edit, and delete
-  - Armor
-    - (C) Can manually create, edit, and delete
-  - Weapons
-    - (C) Can manually create, edit, and delete
+    - (P) Coming soon...
+  - Equipment
+    - Armor
+    - Weapons
+    - Misc
 - Combat
 
 
