@@ -1,4 +1,4 @@
-# foundryvtt-palladiumbooks
+# palladiumbooks
 This is an unofficial Foundry VTT game system for playing Tabletop RPG titles from [Palladium Books®](https://palladiumbooks.com/) like: Rifts®, After the Bomb®, Heroes Unlimited™ and more!
 
 ## Disclaimers
